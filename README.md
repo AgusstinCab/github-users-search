@@ -37,6 +37,9 @@ https://agusstincab.github.io/Github-Users-Search/
 ## 📂 Estructura del proyecto
 
 ```text
+├── assets
+│   ├── preview.png
+│   └── github_logo.png
 ├── index.html
 ├── style.css
 ├── script.js
