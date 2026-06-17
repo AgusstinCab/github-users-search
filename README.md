@@ -5,7 +5,7 @@ Aplicación web desarrollada con JavaScript puro que permite buscar usuarios de 
 ## 🌐 Demo
 
 👉 **Ver aplicación en línea:**
-https://agusstincab.github.io/Github-Users-Search/
+https://agusstincab.github.io/github-users-search/
 
 ## 📸 Vista previa
 
